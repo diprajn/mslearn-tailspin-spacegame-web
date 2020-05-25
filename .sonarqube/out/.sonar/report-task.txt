@@ -1,0 +1,7 @@
+organization=diprajn
+projectKey=diprajn_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=diprajn_mslearn-tailspin-spacegame-web
+ceTaskId=AXJG_cLAKwL91nUXd8Mm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJG_cLAKwL91nUXd8Mm
